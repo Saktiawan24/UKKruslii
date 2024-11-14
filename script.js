@@ -1,10 +1,10 @@
-<script src="script.js"></script>
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+<sript src="script.js"></sript>
+document.querySelectorAll('a[href^="#"]').forEach(anchor => { 
     anchor.addEventListener('click', function(e) {
-      e.preventDefault();
+         e.preventDefault();
 
-      document.querySelector(this.getAttribute('href')).scrollIntoView({
-        behavior: 'smooth'
-      });
-    });
+         document.querySelector(this.getAttribute('href')).scrollIntoView({
+           behavior: 'smooth' 
+        }); 
+    }); 
 });

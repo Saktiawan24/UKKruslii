@@ -15,7 +15,7 @@ body {
     margin-left: 20px;
 }
 header {
-    background-color: rgb(217, 0, 255);
+    background-color: #CBD2A4;
     padding: 20px;
 }
 
@@ -41,7 +41,7 @@ nav a {
 }
 
 .btn-order {
-    background-color: #e74c3c;
+    background-color: #e424c4;
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
@@ -53,7 +53,7 @@ nav a {
     align-items: center;
     justify-content: space-between;
     padding: 40px;
-    background-color: #6aff00;
+    background-color: #F3FF90;
 }
 
 .hero-image {
@@ -72,7 +72,7 @@ nav a {
 }
 
 .btn-primary {
-    background-color: #3498db;
+    background-color: #5a13ff;
     color: white;
     display: inline-block;
     margin-top: 20px;
@@ -83,7 +83,7 @@ nav a {
 /* Products Section */
 #products h2 {
     padding: 40px 0 0 40px;
-    background-color: aquamarine;
+    background-color: #A02334;
 }
 
 .product-list {
@@ -91,7 +91,7 @@ nav a {
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 40px 0;
-    background-color: aqua;
+    background-color: #F9E400;
 }
 
 .product {
@@ -107,7 +107,7 @@ nav a {
 }
 /* Testimonials Section */
 #testimonials {
-    background-color: #ff0000;
+    background-color: rgb(103, 199, 255);
     padding: 40px;
     text-align: center;
 }
@@ -132,7 +132,7 @@ nav a {
 #contact {
     padding: 40px;
     text-align: center;
-    background-color: coral;
+    background-color: rgb(0, 255, 157);
 }
 
 form input,
@@ -143,20 +143,19 @@ form textarea {
     margin: 0 auto;
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid #ccc;
-    background-color: lightpink;
+    border: 1px solid #ff0000;
 }
 
 button {
     padding: 10px 20px;
-    background-color: #3498db;
-    color: white;
+    background-color: #96c73a;
+    color: rgb(0, 0, 0);
     border: none;
     cursor: pointer;
 }
 /* Footer */
 footer {
-    background-color: #333;
+    background-color: #5F5D9C;
     color: white;
     text-align: center;
     padding: 20px;
